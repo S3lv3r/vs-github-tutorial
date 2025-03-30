@@ -9,7 +9,7 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Esto todavia no lo quiero cambiar");
+            MessageBox.Show("Aqui ya modifique algo remotamente");
         }
     }
 }
